@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wabyte.com.ico",
     "slug": "wabyte",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-21": 33
+      "2022-10-21": 38
     }
   },
   {
@@ -240,19 +240,19 @@
     "url": "https://notifications.wabyte.com",
     "icon": "https://icons.duckduckgo.com/ip3/notifications.wabyte.com.ico",
     "slug": "notifications",
-    "status": "down",
-    "uptime": "98.10%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.10%",
-    "time": 303,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "status": "up",
+    "uptime": "70.33%",
+    "uptimeDay": "70.33%",
+    "uptimeWeek": "70.33%",
+    "uptimeMonth": "70.33%",
+    "uptimeYear": "70.33%",
+    "time": 411,
+    "timeDay": 411,
+    "timeWeek": 411,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2022-10-21": 0
+      "2022-10-21": 5
     }
   }
 ]
