@@ -26,11 +26,11 @@ sites:
   - name: Docus
     url: https://docus.wardbeyens.be 
   - name: Cloud
-    url: cloud.wardbeyens.be 
+    url: https://cloud.wardbeyens.be 
   - name: Face Detection
-    url: face-detection.wabyte.com
+    url: https://face-detection.wabyte.com
   - name: Notifications
-    url: notifications.wabyte.com
+    url: https://notifications.wabyte.com
 
     
 
