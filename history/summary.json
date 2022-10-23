@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-23": 1168,
+      "2022-10-23": 1184,
       "2022-10-22": 1440,
       "2022-10-21": 121
     }
@@ -44,19 +44,19 @@
     "url": "https://grafi.ml",
     "icon": "https://icons.duckduckgo.com/ip3/grafi.ml.ico",
     "slug": "grafi",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 853,
-    "timeDay": 806,
-    "timeWeek": 853,
-    "timeMonth": 853,
-    "timeYear": 853,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 892,
+    "timeDay": 986,
+    "timeWeek": 892,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {
-      "2022-10-23": 0
+      "2022-10-23": 16
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://wardflix.ga/",
     "icon": "https://icons.duckduckgo.com/ip3/wardflix.ga.ico",
     "slug": "wardflix",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 856,
-    "timeDay": 871,
-    "timeWeek": 856,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 882,
+    "timeDay": 930,
+    "timeWeek": 882,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2022-10-23": 0
+      "2022-10-23": 16
     }
   },
   {
